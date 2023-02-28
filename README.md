@@ -22,4 +22,4 @@ You can reach out to me via,
 
 Email: [Vanshajagrawal@protonmail.com](mailto:Vanshajagrawal@protonmail.com)
 
-GitHub: [@120205690](https://github.com/120205690)
+My Site: [@120205690](http://120205690.github.io/)
