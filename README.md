@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Vanshaj 👋
 
 <!--
 **120205690/120205690** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm an aspiring Machine Learning scientist, currently in the 4th year at DJ Sanghvi College of Engineering, Mumbai. Wondering about my Github username? Well, 1.20205690 is the Apery constant, named after the mathematician who famously proved the irrationality of the Riemann Zeta function ζ(x) for the case of x=3.
+Having learnt of Euler's closed form for ζ(2n) during my high school days, I was intrigued by the absence of a proof for odd numbers ζ(2n+1). <a href="https://link.springer.com/chapter/10.1007/978-1-4757-4217-6_48" target="_blank">Beukers' simplified proof</a> of the Apery's constant was a very memorable tryst with higher-level mathematics. Hope you find it equally elegant.
+
+If you would like to contact me for potential research collaborations, please feel free to drop me an email!
+You can reach out to me via,
+
+Email: [Vanshajagrawal@protonmail.com](mailto:Vanshajagrawal@protonmail.com)
+
+GitHub: [@120205690](https://github.com/120205690)
